@@ -43,7 +43,7 @@ Additional reference hashes from the same analysis:
 
 This copy runs and behaves like the original from the outside (same command-line arguments, same silent behavior, same output banner), but every file it produces is non-functional. The nature of the modifications is deliberately not documented here.
 
-Please do not open issues asking to make it work, submit "fixes", or request the original — the original is intentionally not redistributed here in working form. Researchers who need the verbatim artifact for analysis can obtain it from malware sample repositories or by contacting the maintainers of this archive.
+Please do not open issues asking to make it work, submit "fixes", or request the original — the original is intentionally not redistributed here in working form. Researchers who need the verbatim artifact for analysis can obtain it from malware sample repositories.
 
 ## Credits
 
