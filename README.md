@@ -31,7 +31,7 @@ Recovered from the **Blank Grabber v2.03** source distribution (`blankgrabberV2.
 | File | SHA-256 |
 |---|---|
 | Original `BlankOBF.py` (as bundled in v2.03 source) | `73bd45bbbf96aa84a2abf5eef93513126bd3adbbbb5ebd5272776643d99c1fb8` |
-| `BlankOBF.py` in this repository (neutered) | `72d0be09a616cd2151c0fea032a2494024909304ead3555490f06a3881d70105` |
+| `BlankOBF.py` in this repository (neutered) | `fdd8da67fcc50449caf71621b67536bce90f885c2faab129c6d96506d72262be` |
 
 Additional reference hashes from the same analysis:
 
